@@ -1,0 +1,35 @@
+_repo: Between-the-Dark-and-the-Daylight_37966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldmann, Bernard
+    - Heldman, Richard Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2011-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: 'My aunt''s excursion -- The irregularity of the juryman -- Mitwaterstraand:
+  the story of a shock -- Exchange is robbery -- The haunted chair -- Nelly -- La
+  haute finance: a tale of the biggest coup on record -- Mrs. Riddle''s daughter --
+  Miss Donne''s great gamble -- "Skittles" -- "Em" -- A relic of the Borgias.'
+title: Between the Dark and the Daylight
+url: http://www.gutenberg.org/ebooks/37966
