@@ -73,8 +73,8 @@ Dundee Advertiser.--'"An Aristocratic Detective" is from the pen of
 Richard Marsh, and displays that writer's customary inventiveness and
 realistic manner. It relates the experiences of the Hon. Augustus
 Champnell, who emulates Sherlock Holmes in the following up of puzzling
-cases. These are very 'cutely devised and smartly worked out. All
-through Mr. Marsh is thoroughly interesting.
+cases. These are very cutely devised and smartly worked out. All
+through Mr. Marsh is thoroughly interesting.'
 
 Eastern Morning News.--'The whole of the sketches are vigorous and
 racy, being told in a lively, up-to-date manner, and some of the
@@ -177,7 +177,7 @@ Page 180.]
                              RICHARD MARSH
 
                                AUTHOR OF
-           "THE BETTLE," "FRIVOLITIES," "AMUSEMENT ONLY," "AN
+           "THE BEETLE," "FRIVOLITIES," "AMUSEMENT ONLY," "AN
                      ARISTOCRATIC DETECTIVE," ETC.
 
 
@@ -1079,7 +1079,7 @@ nature of repartees. Possibly it was owing to the beef and carrots.
 They re-entered the court. The case recommenced. Mr. Roland had a
 headache. He was cross. His disposition was to return a verdict against
 everything and everyone, as his neighbour had put it, "in the face of
-all the judges who ever sat upon the Bench." But this time ho did pay
+all the judges who ever sat upon the Bench." But this time he did pay
 some attention to what was going on.
 
 It appeared, in spite of the necessity which the portly gentleman had
@@ -1555,7 +1555,7 @@ endeavoured to parry.
 "I cannot tell you how grateful I am to you for coming in this
 spontaneous fashion--at this moment, too, of my utmost need."
 
-"Just 80."
+"Just so."
 
 "If you only knew how I have searched for you high and low, and now,
 after all, you appear in the very nick of time."
@@ -2125,7 +2125,7 @@ turned the contents of the bag out upon the drawers.
 
 They presented a curious variety at any rate. As he gazed at them he
 experienced that singular phenomenon--the inability to credit the
-evidence of his own eyes. There, were the rest of the chessmen, the
+evidence of his own eyes. There were the rest of the chessmen, the
 rest of the spoons, nick-nacks, a quaint, old silver cream-jug,
 jewellery--bracelets, rings, ear-rings, necklaces, pins, lockets,
 brooches, half the contents of a jeweller's shop. As he stood staring
@@ -3685,7 +3685,7 @@ I'll have a talk with them. I suppose it's three or four minutes since
 the man vanished. What's the time now? Whatever has become of my
 watch?"
 
-"He might well ask--it had gone, both watch and chain--vanished, with
+He might well ask--it had gone, both watch and chain--vanished, with
 Mr. Fleming, into air. Mr. Philpotts stared at his waistcoat, too
 astonished for speech. Then he gave a little gasp.
 
@@ -3751,7 +3751,7 @@ letter. What made you ask?"
 
 "I only wondered."
 
-"Mr. Philpotts turned again to the paper. The other went on.
+Mr. Philpotts turned again to the paper. The other went on.
 
 "It seems that a lot of Australian sporting men were on the boat on
 which they went out. Fleming got in with them. They played--he played
@@ -4926,7 +4926,7 @@ a man of action before all things else. He was not rich, as riches go,
 but certainly he was not poor. His temperament was cosmopolitan, and
 his profession Jack-of-all-trades. Wherever there was money to be made,
 he was there. Sometimes, it must be confessed, he was there, too, when
-there was money to be lost, His wife was English--keen and clever. Her
+there was money to be lost. His wife was English--keen and clever. Her
 chief weakness was that she would persist in looking on existence as a
 gigantic lark. When she was most serious she regarded life least _au
 sérieux_.
@@ -5779,7 +5779,7 @@ come with such blinding suddenness, "a bolt out of the blue," that, as
 yet, I was unable to realise all that it meant. As I looked at the
 girl, who seemed all at once to have become smaller even that she
 usually was, I was conscious that, if I did not keep myself well in
-hand, I was in danger of collapsing at the knees. Bather than have
+hand, I was in danger of collapsing at the knees. Rather than have
 suffered what I suffered then, I would sooner have had a good sound
 thrashing any day, and half my bones well broken.
 
@@ -6841,7 +6841,7 @@ The _salle de jeu_ had but a single occupant, a _tourneur_ who was
 engaged in dusting the little horses. To enable him to perform the
 necessary offices he removed the steeds from their places one after the
 other. As it chanced he was the identical individual who had been
-responsible for the _course_ which had crowned Miss Doone with victory.
+responsible for the _course_ which had crowned 'Miss Doone' with victory.
 With that keen vision which is characteristic of his class the man
 recognised her on the instant. Bowing and smiling he held out to her
 the horse which he was holding.
@@ -7773,7 +7773,7 @@ standing all through, leaning on his stick, with his eyes on the
 ground; while the vicar, with his grasp still on the handle of the
 door, stood with his face turned towards the wall. It was with an
 apparent effort that, moving towards his writing table, placing Mr.
-Ingledew's two papers in front of him, ho seated himself in his
+Ingledew's two papers in front of him, he seated himself in his
 accustomed chair. Taking off his spectacles, with his hands he gently
 rubbed his eyes as if they were tired.
 
@@ -8659,7 +8659,7 @@ Parkes came hurrying in.
 
 "Did you call, sir?"
 
-He knew I had called. The muscles of the fellows face were trembling.
+He knew I had called. The muscles of the fellow's face were trembling.
 
 "Mr. Vernon's dead."
 
